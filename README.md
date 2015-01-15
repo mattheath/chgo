@@ -11,7 +11,7 @@ Change go versions with ease. Sorry, [Billy](http://www.youtube.com/watch?v=tJWM
 
 ## Installation
 
-Grab the [latest release](https://github.com/wfarr/chgo/releases) from GitHub and put it somewhere.
+Grab the [latest release](https://github.com/mattheath/chgo/releases) from GitHub and put it somewhere.
 Then source `$CHGO_ROOT/share/chgo/chgo.sh` in your configuration, somewhere (`$CHGO_ROOT` is wherever you put the release at).
 
 ### Auto-switching
